@@ -1,0 +1,111 @@
+﻿[center][table][tr]
+[td][font=Courier][size=2px][color=black]
+████
+ ████
+  ████
+   ████
+    ████
+     ████
+      ████
+       ████
+        ████
+       ████
+      ████
+     ████
+    ████
+   ████
+  ████
+ ████
+████
+[/color][/size][/font][/td]
+[td][font=Courier][size=2px][color=#cd00cd]
+████
+ ████
+  ████
+   ████
+    ████
+     ████
+      ████
+       ████
+        ████
+       ████
+      ████
+     ████
+    ████
+   ████
+  ████
+ ████
+████
+[/color][/size][/font][/td]
+[td][center][url=https://bitcointalk.org/index.php?topic=1883902.0][size=14px][color=#cd00cd][b][color=black]A new playground for BTC User[/color][BR][size=10pt]No ICO - BTC Snapshot[/size][/b][/color][/size][/url][/center][/td]
+[td][b][size=16px][color=#921484]|
+|[/color][/size][/b][/td]
+[td][right][url=https://bitcointalk.org/index.php?topic=1883902.0][color=transparent].[/color][size=14pt][b][font=Trebuchet MS][color=#8A1386]S[/color][color=#861386]E[/color][color=#821387]G[/color][color=#7E1287]W[/color][color=#7A1288]I[/color][color=#761288]T[/color][color=#721189]-[/color] [color=#6A118A]2[/color][color=#66108B]0[/color][color=#62108B]M[/color][color=#5E108C]B[/color][/font][/b][/size][/url][color=transparent].[/color]
+[url=http://claim.bitcore.cc/][font=Trebuchet MS][size=11pt][b][color=transparent].[/color][color=black]Claim your BTX[/color][color=transparent].[/color][/b][/size][/font][/url]
+[/right][/td]
+[td][font=Courier][size=2px][color=#cd00cd]
+                             
+        ___████████___        
+      _████████████████_      
+    _█████████  █  ██████_    
+   _██████         ███████_   
+  _█████████         ██████_  
+  █████████    ██    █   ███ 
+  █████████          █   ███ 
+  ███████     ███       ████ 
+   █████            █   ███¯ 
+    ██████         █   ███¯   
+     ██████ █  ██████████    
+      ¯████████████████¯     
+        ¯███████████¯¯        
+                         
+[/color][/size][/font][/td]
+[td][center][url=https://bitcointalk.org/index.php?topic=1883902.0][size=5pt][color=transparent].[/color][/size][size=14pt][b][font=Trebuchet MS][color=#5A108D]C[/color][color=#5E108C]o[/color][color=#62108B]r[/color][color=#66108B]e[/color][color=#6A118A][/color] [color=#721189]0[/color][color=#771288].[/color][color=#7B1288]14[/color][color=#7F1287].0[/color][/font][/b][color=transparent].[/color][/size][/url][/center]
+[left][url=http://claim.bitcore.cc/][font=Trebuchet MS][size=11pt][b][size=8pt][color=transparent].[/color][/size][color=black] complete for free!![/color][color=transparent].[/color][/b][/size][/font][/url]
+[/left][/td]
+[td][b][size=16px][color=#921484]|
+|[/color][/size][/b][/td]
+[td][size=14pt][b][url=https://bitcointalk.org/index.php?topic=1883902.0][color=#cd00cd]BitCore - BTX[/color][/url][/b][/size][size=6pt][url=https://github.com/LIMXTEC/BitSend/releases]Clients |[/url][url=https://github.com/LIMXTEC/BitCore/releases]Source[/url][/size][BR][size=14pt][b][url=http://bitcore.cc][color=#cd00cd]www.bitcore.cc[/color][/url][/b][/size][/td]
+[td][b][size=16px][color=#921484]|
+|[/color][/size][/b][/td]
+[td][center][url=https://btx-invite.herokuapp.com/][b][font=arial][size=8pt][color=#000][BR]JOIN OUR
+[font=candara][size=13pt][glow=#fff,2][color=#3BB18B]S[color=#DA9402]L[color=#019EBE]A[color=#D6145F]C[color=#198C78]K[/td]
+[td][font=Courier][size=2px][color=black]
+████
+ ████
+  ████
+   ████
+    ████
+     ████
+      ████
+       ████
+        ████
+       ████
+      ████
+     ████
+    ████
+   ████
+  ████
+ ████
+████
+[/color][/size][/font][/td]
+[td][font=Courier][size=2px][color=#cd00cd]
+████
+ ████
+  ████
+   ████
+    ████
+     ████
+      ████
+       ████
+        ████
+       ████
+      ████
+     ████
+    ████
+   ████
+  ████
+ ████
+████
+[/color][/size][/font][/td]
+[/tr][/table][/center]

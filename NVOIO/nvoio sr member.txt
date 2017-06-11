@@ -1,0 +1,44 @@
+﻿[center][table][tr][td][font=Courier][size=2px][color=#aed0ff]
+        ▄                   [color=#0977f4] ▄██[/color]
+       ▐██▄                [color=#0977f4]▄████▄[/color]
+       █████▄            [color=#0977f4]▄███████[/color]
+      ████████▄        [color=#0977f4]▄██████████[/color]
+     ▐██████████▄    [color=#0977f4]▄█████████████[/color]
+     █████████████▄ [color=#0977f4]▀██████████████▄[/color]
+    ████████████████▄ [color=#0977f4]▀█████████████[/color]
+   ▐█████████████████▄  [color=#0977f4]▀████████████[/color]
+   ████████████████████▄  [color=#0977f4]▀██████████▌[/color]
+  ███████████████████████▄  [color=#0977f4]▀█████████▄[/color]
+ ▄█████████████████████████▄  [color=#0977f4]▀████████[/color]
+ ████████████████████████████▄  [color=#0977f4]▀██████▌[/color]
+▐██████████████████████████████▄  [color=#0977f4]▀██▀▀[/color]
+▀████████████████████████████████
+    ▀▀▀███████████████████████▀
+          ▀▀███████████████▀
+                ▀▀█████▀▀
+[/color][/size][/font][/td]
+
+[td][color=transparent][size=2pt].[/size][/color]
+[center][url=https://nvo.io/][size=21pt][b][font=Arial Narrow][color=#303a48]NVO[/color][/font][/b][/size][/url][/center][/td]
+
+[td][b][font=Franklin Gothic Book][size=8px][color=#0977f4]▄█▄
+║[color=#aed0ff]░[/color]║
+║[color=#aed0ff]░[/color]║
+▀█▀[/color][/size][/font][/b][/td] 
+
+[td][color=transparent][size=2pt].[/size][/color]
+[center][url=https://nvo.io/][size=12pt][b][font=Arial Narrow][color=#303a48]════════▮ [color=#303A48]C[/color][color=#333D4C]r[/color][color=#364151]o[/color][color=#394555]s[/color][color=#3C485A]s[/color][color=#3F4C5E]-[/color][color=#425063]p[/color][color=#455468]l[/color][color=#48576C]a[/color][color=#4B5B71]t[/color][color=#4E5F75]f[/color][color=#52637A]o[/color][color=#55667F]r[/color][color=#586A83]m[/color] [color=#5E718C]M[/color][color=#617591]o[/color][color=#647996]d[/color][color=#677D9A]u[/color][color=#6A809F]l[/color][color=#6D84A3]a[/color][color=#7088A8]r[/color] [color=#7088A8]D[/color][color=#6D84A3]e[/color][color=#6A809F]c[/color][color=#677D9A]e[/color][color=#647996]n[/color][color=#617591]t[/color][color=#5E718C]r[/color][color=#5B6E88]a[/color][color=#586A83]l[/color][color=#55667F]i[/color][color=#52637A]z[/color][color=#4E5F75]e[/color][color=#4B5B71]d[/color] [color=#455468]E[/color][color=#425063]x[/color][color=#3F4C5E]c[/color][color=#3C485A]h[/color][color=#394555]a[/color][color=#364151]n[/color][color=#333D4C]g[/color][color=#303A48]e[/color] ▮════════[/color][/font][/b][/size]
+[font=Arial Narrow][size=10pt][b][color=#0977f4]Secure [color=#aed0ff]═[/color] Private [color=#aed0ff]═[/color] Assets-to-Assets [color=#aed0ff]═[/color] Full Autonomy [color=#aed0ff]═[/color] Multi-Assets Storage [color=#aed0ff]═[/color] Integrated Platform[/color][/b][/size][/font]
+[/url][/center][/td]
+
+[td][b][font=Franklin Gothic Book][size=8px][color=#0977f4]▄█▄
+║[color=#aed0ff]░[/color]║
+║[color=#aed0ff]░[/color]║
+▀█▀[/color][/size][/font][/b][/td] 
+
+[td][color=transparent][size=2pt].[/size][/color]
+[center][url=https://nvo.io/][size=12pt][b][font=Arial Narrow][color=#0977f4]Crowd Sale[/color][/font][/b][/size][/url]
+[font=Arial Narrow][url=https://nvo.io/][size=10pt][b][color=#303A48][color=#0977f4]═[/color]23/5/2017[color=#0977f4]═[/color][/color][/b][/size][/url][/font]
+[/center][/td]
+
+[/tr][/table][/center]

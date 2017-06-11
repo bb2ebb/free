@@ -1,0 +1,63 @@
+﻿[center][table][tr][td][center][url=https://www.dcorp.it/][b][font=calibri][size=20pt][color=#5CB6E5][u]     [color=#5D3182]DCORP[/u][/size][/font][/b][/url][/center][/td]
+[td][url=https://www.dcorp.it/][font=courier][size=2px][color=#62AFE1]
+              ▄
+            ▄███▄
+          ▄███████▄
+   ▄▄▄    █[/color][color=#3C92CF]███████[/color][color=#62AFE1]██
+   ███[/color][color=#4A7EC0]    ███████████▄[/color]
+[color=#62AFE1]██[/color][color=#575DB2]    ████    ████████▄[/color]
+[color=#5F5B9F]      ████    ██████████[/color]
+[color=#625DB5]  ████    ████▀██████████[/color][color=#728AB1]▄[/color]
+[color=#705DB5]  ████    ██▀   ▀████████[/color][color=#727EB1]█▄[/color]
+[color=#6A52C4]      █████       ███████[/color][color=#7276B1]██▄[/color]
+[color=#7552C4]      ███▀         ▀█████[/color][color=#7872B1]███[/color]
+[color=#8272B1]  ████[color=#6852A4]██▀           ▀███[/color]████
+[color=#9478B6]  █████[color=#7152A4]▀             ▀[/color]█████
+[color=#9A78B6]   ████[color=#4D4284] █▄▄▄     ▄▄▄█[/color] ████[/color]
+[color=#A178B6]    ███[color=#574586] ▀███████████▀[/color] ███[/color]
+[color=#A878B6]     ▀▀█▄[color=#654586] █████████[/color] ▄█▀▀[/color]
+[color=#BC7ECB]        ▀▀▄▄[color=#6E4586] ▀▀▀[/color] ▄▄▀▀[/color][/size][/font][/url][/td][td][/td]
+[td][center][url=https://www.dcorp.it/][b][font=ubuntu][size=13pt][color=#455CB2]Dem[color=#4845B2]ocr[color=#5A45B2]ati[color=#6E45B2]sin[color=#7B45B2]g Ve[color=#7B45B2]ntu[color=#6E45B2]re C[color=#5A45B2]api[color=#4845B2]tal[color=#455CB2]ism[/size] 
+[size=9pt][color=#3361D7]▪■ A[color=#1848C3]uto[color=#0B38AC]nom[color=#012A92]ous   [color=#3361D7]▪■ De[color=#1848C3]cen[color=#0B38AC]tral[color=#012A92]ized   [color=#3361D7]▪■ De[color=#1848C3]moc[color=#0B38AC]ra[color=#012A92]tic[/size][/font][/b][/url][/center][/td][td][/td]
+[td][font=ubuntu][size=8pt][color=#5CB6E5]●●
+●●
+●●[/size][/font][/td][td][/td]
+[td][center][url=https://github.com/frankbonnet/DCORP-Whitepaper/blob/master/whitepaper%20v0.3.2_EN-revised.pdf][b][color=transparent][size=5pt].[/size][/color]
+[font=Arial][size=2pt][color=black]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+[size=10pt][color=#5105B0]WHITEPAPER[/size]
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color][/size][/font][/b][/url][/center][/td]
+[td][font=ubuntu][size=8pt][color=#5CB6E5]●●
+●●
+●●[/size][/font][/td]
+[td][size=20pt][b][color=#5105B0]|[/b][/size][/td][td][font=ubuntu][size=8pt][b][url=https://www.facebook.com/DecentralizedCorporation]●  [color=#0970FD]facebook[/url]
+[url=https://www.reddit.com/r/dcorp/]●  [color=#0970FD]reddit[/url]
+[url=https://bitcointalk.org/index.php?topic=1928628.0]●  [color=#0970FD]ann thread[/url][/b][/size][/font][/td][td][size=20pt][b][color=#5105B0]|[/b][/size][/td]
+[td][font=arial][size=2pt][color=#5D65C9]█
+█ ██
+[color=#7D5DC9]█ ██ █
+█ ██ █
+[color=#9D81DF]█ ██ █
+█ ██ █
+[color=#C1AAF7]█ ██ █
+█ ██ █
+[color=#9D81DF]█ ██ █
+█ ██ █
+[color=#7D5DC9]█ ██ █
+█ ██
+[color=#5D65C9]█[/size][/font][/td]
+[td][center][url=https://www.dcorp.it/crowdsale][color=transparent][size=2pt].[/size][/color]
+[b][font=calibri][size=14pt][color=#000]CROWDSALE[/size][/font]
+[size=6pt][color=#7D5DC9]●●●●●●●●●●●[/size][/b][/url][/center][/td]
+[td][right][font=arial][size=2pt][color=#5D65C9]█
+██ █
+[color=#7D5DC9]█ ██ █
+█ ██ █
+[color=#9D81DF]█ ██ █
+█ ██ █
+[color=#C1AAF7]█ ██ █
+█ ██ █
+[color=#9D81DF]█ ██ █
+█ ██ █
+[color=#7D5DC9]█ ██ █
+██ █
+[color=#5D65C9]█[/size][/font][/td][/tr][/table][/center]
